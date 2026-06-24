@@ -20,3 +20,8 @@
 ## Dashboard Preview
 
 <img width="1853" height="770" alt="image" src="https://github.com/user-attachments/assets/5c90bc40-fe75-486f-a893-2bf50b035d25" />
+
+## Key Insights
+
+<img width="651" height="816" alt="image" src="https://github.com/user-attachments/assets/76ae8e7c-c5b5-499b-a23a-c83236a8ca41" />
+
