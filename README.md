@@ -1,2 +1,22 @@
-# -Myntra-Product-Analytics-Dashboard-
-Excel-based analysis of 24,000+ Myntra products using Pivot Tables, data cleaning, slicers, and interactive dashboards for pricing and discount insights.
+# 🛍️ Myntra Product Analytics Dashboard
+
+*Excel Analytics & Interactive Reporting*
+
+## Overview
+
+- 🧹 Prepared and transformed raw product data to improve accuracy and usability
+- 📈 Analyzed product pricing, discounts, brands, and categories using Pivot Tables and Excel formulas
+- 🎯 Created an interactive dashboard with slicers for efficient filtering and trend visualization
+
+## Tools Used
+
+`Microsoft Excel` `Pivot Tables` `Slicers` `Data Cleaning` `Data Analysis`
+
+## Dataset
+
+- 24,000+ Product Records
+- Myntra Fashion Dataset
+
+## Dashboard Preview
+
+(Add screenshot here)
