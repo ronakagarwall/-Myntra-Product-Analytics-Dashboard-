@@ -19,4 +19,4 @@
 
 ## Dashboard Preview
 
-(Add screenshot here)
+<img width="1853" height="770" alt="image" src="https://github.com/user-attachments/assets/5c90bc40-fe75-486f-a893-2bf50b035d25" />
