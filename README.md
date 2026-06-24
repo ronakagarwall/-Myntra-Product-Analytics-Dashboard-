@@ -23,5 +23,4 @@
 
 ## Key Insights
 
-<img width="651" height="816" alt="image" src="https://github.com/user-attachments/assets/76ae8e7c-c5b5-499b-a23a-c83236a8ca41" />
-
+<img width="2481" height="3509" alt="Questions_page-0001" src="https://github.com/user-attachments/assets/c5665fac-d877-411a-bedd-d3c5b5550e4a" />
